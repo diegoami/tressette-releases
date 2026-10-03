@@ -2,6 +2,8 @@
 
 **[Italiano](#italiano) · [English](#english)**
 
+**Source code / Codice sorgente:** [Tressette](https://github.com/diegoami/Tressette)
+
 Tressette a due for the browser, with the 1997 card art of
 [Discola](https://discola.netlify.app). Here you'll find the Android app and
 the rules — to play in the browser right now, go to
